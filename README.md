@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seon22break&label=Profile%20views&color=0e75b6&style=flat" alt="seon22break" /> </p>
 
-- 🔭 I’m currently working on **IPTV Manager**
-
-- 👨‍💻 All of my projects are available at [https://sb22.es](https://sb22.es)
+- 🔭 I’m currently working on **WhoSpeak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
